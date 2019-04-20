@@ -1,5 +1,5 @@
 # myreads-app
-A Book App that organizes books from Currently Reading, Want To Read, to Read. New books can be added to each category and removed.
+A Book App that organizes books from Currently Reading, Want To Read, to Read. New books can be added to each category and removed. Created with React.
 
 ## How to Start
 - Clone or Download

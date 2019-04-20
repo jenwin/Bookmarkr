@@ -5,7 +5,7 @@ class Book extends Component {
   render() {
     const { book, updateShelf, defaultShelf } = this.props
     let imageDisplay = book.imageLinks ? book.imageLinks.thumbnail : 'Image Unavailable';
-    let author = book.authors ? book.authors : 'Author Unknown';
+    let author = book.authors ? book.authors.join(', ') : 'Author Unknown';
     let bookTitle = book.title ? book.title : 'Untitled';
 
     return (
