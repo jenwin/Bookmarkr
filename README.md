@@ -3,8 +3,7 @@ A Book App that organizes books from Currently Reading, Want To Read, to Read. N
 
 ## How to Start
 - Clone or Download
-- `npm install` to install dependencies
-- `npm start` to start development server
+- `npm install && npm start` to run the application
 - Launch project at `http://localhost:3000/`
 
 ## License
