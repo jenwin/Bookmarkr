@@ -183,3 +183,27 @@ button:active {
   padding: 20px 10px 0;
   text-align: center;
 }
+
+/*not found page*/
+.not-found-icon {
+  font-size: 6rem;
+  margin-top: 4rem;
+}
+
+.not-found-para {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.not-found-link,
+.not-found-link:hover {
+  color: #000;
+}
+
+.not-found-link {
+  font-size: 1.3rem;
+}
+
+.not-found-link:hover {
+  text-decoration: underline;
+}

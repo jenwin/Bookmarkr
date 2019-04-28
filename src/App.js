@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
-import { Route } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import * as BooksAPI from './utils/BooksAPI';
 import Main from './components/Main';
 import Search from './components/Search';
+import NotFound from './components/NotFound';
 import './App.css';
 
 class App extends Component {
@@ -42,7 +43,7 @@ class App extends Component {
 
   render() {
     return (
-      <div>
+      <Switch>
         <Route exact path='/' render={() => (
           <Main
             books={this.state.books}
@@ -55,7 +56,8 @@ class App extends Component {
             updateShelf={this.updateShelf}
           />
         )} />
-      </div>
+        <Route component={NotFound} />
+      </Switch>
     );
   }
 }
