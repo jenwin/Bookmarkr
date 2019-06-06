@@ -3,13 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "browserslist": "^4.6.1",
+    "caniuse-lite": "^1.0.30000974",
     "escape-string-regexp": "^1.0.5",
+    "js-yaml": "3.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.1",
     "sort-by": "^1.2.0",
+    "tar": "^4.4.10",
     "throttle-debounce": "^2.1.0"
   },
   "scripts": {
