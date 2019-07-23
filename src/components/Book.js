@@ -4,7 +4,8 @@ import PropTypes from 'prop-types';
 class Book extends Component {
   render() {
     const { book, updateShelf, defaultShelf } = this.props
-    let imageDisplay = book.imageLinks ? book.imageLinks.thumbnail : 'Image Unavailable';
+    const coverMissing = 'https://dummyimage.com/128x193/000000/fff.png&text=Cover+Missing';
+    let imageDisplay = book.imageLinks ? book.imageLinks.thumbnail : coverMissing;
     let author = book.authors ? book.authors.join(', ') : 'Author Unknown';
     let bookTitle = book.title ? book.title : 'Untitled';
 
