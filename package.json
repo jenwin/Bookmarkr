@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "acorn": "^5.7.4",
     "browserslist": "^4.6.1",
     "caniuse-lite": "^1.0.30000974",
     "escape-string-regexp": "^1.0.5",
-    "eslint-utils": "1.4.1",
-    "handlebars": "^4.7.2",
+    "eslint-utils": "^1.4.1",
+    "handlebars": "^4.3.0",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "lodash.template": "^4.5.0",
@@ -22,7 +23,8 @@
     "sort-by": "^1.2.0",
     "tar": "^4.4.10",
     "throttle-debounce": "^2.1.0",
-    "webpack-dev-server": "3.1.9"
+    "webpack-dev-server": "^3.1.9",
+    "websocket-extensions": "^0.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
