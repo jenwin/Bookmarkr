@@ -34,7 +34,7 @@ class Search extends Component {
     }
   }
 
-  // checks for errors
+  //checks for errors
   //if no errors, show results
   searchResults = throttle(300, query => {
     if (query) {

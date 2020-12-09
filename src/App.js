@@ -42,17 +42,19 @@ class App extends Component {
   }
 
   render() {
+    const { books } = this.state;
+
     return (
       <Switch>
         <Route exact path='/' render={() => (
           <Main
-            books={this.state.books}
+            books={books}
             updateShelf={this.updateShelf}
           />
         )} />
         <Route exact path='/search' render={() => (
           <Search
-            books={this.state.books}
+            books={books}
             updateShelf={this.updateShelf}
           />
         )} />
