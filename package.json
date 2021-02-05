@@ -8,7 +8,7 @@
     "caniuse-lite": "^1.0.30000974",
     "escape-string-regexp": "^1.0.5",
     "eslint-utils": "^1.4.1",
-    "handlebars": "^4.3.0",
+    "handlebars": "^4.5.3",
     "immer": "^8.0.1",
     "install": "^0.13.0",
     "js-yaml": "^3.13.1",
