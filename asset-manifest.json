@@ -1,14 +1,14 @@
 {
   "main.css": "/myreads-app/static/css/main.57778a11.chunk.css",
-  "main.js": "/myreads-app/static/js/main.3db1c5fb.chunk.js",
-  "main.js.map": "/myreads-app/static/js/main.3db1c5fb.chunk.js.map",
+  "main.js": "/myreads-app/static/js/main.be88cfec.chunk.js",
+  "main.js.map": "/myreads-app/static/js/main.be88cfec.chunk.js.map",
   "static/js/1.196e1a5d.chunk.js": "/myreads-app/static/js/1.196e1a5d.chunk.js",
   "static/js/1.196e1a5d.chunk.js.map": "/myreads-app/static/js/1.196e1a5d.chunk.js.map",
   "runtime~main.js": "/myreads-app/static/js/runtime~main.1500c43a.js",
   "runtime~main.js.map": "/myreads-app/static/js/runtime~main.1500c43a.js.map",
-  "static/media/App.css": "/myreads-app/static/media/add.75d390e5.svg",
+  "static/media/App.css": "/myreads-app/static/media/arrow-back.20e8847d.svg",
   "static/css/main.57778a11.chunk.css.map": "/myreads-app/static/css/main.57778a11.chunk.css.map",
   "index.html": "/myreads-app/index.html",
-  "precache-manifest.87547d95c0fba6fe7a884023ac42a1e8.js": "/myreads-app/precache-manifest.87547d95c0fba6fe7a884023ac42a1e8.js",
+  "precache-manifest.c690de559bde20ea997de17fc3a184bc.js": "/myreads-app/precache-manifest.c690de559bde20ea997de17fc3a184bc.js",
   "service-worker.js": "/myreads-app/service-worker.js"
 }
