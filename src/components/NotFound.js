@@ -19,13 +19,13 @@ const NotFound = () => {
       </div>
       <div>
         <a
-          href="http://localhost:3000/search"
+          href="/search"
           className="not-found-link"
         >Search for a book</a>
       </div>
       <div>
         <a
-          href="http://localhost:3000/"
+          href="/"
           className="not-found-link"
         >Go to bookshelf</a>
       </div>
