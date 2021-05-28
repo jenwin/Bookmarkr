@@ -2,7 +2,7 @@
   "name": "myreads-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jenwin.github.io/myreads-app/",
+  "homepage": "https://jenwin.github.io/myreads-app",
   "dependencies": {
     "acorn": "^5.7.4",
     "browserslist": "^4.6.1",
