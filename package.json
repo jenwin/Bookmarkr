@@ -28,7 +28,7 @@
     "react-dom": "^16.6.3",
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.1",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "set-value": "^2.0.1",
     "sort-by": "^1.2.0",
     "tar": "^4.4.10",
