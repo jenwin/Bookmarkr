@@ -36,7 +36,7 @@
     "serialize-javascript": "^5.0.1",
     "set-value": "^2.0.1",
     "sort-by": "^1.2.0",
-    "tar": "^4.4.10",
+    "tar": "^4.4.15",
     "throttle-debounce": "^2.1.0",
     "url-parse": "^1.5.1",
     "webpack-dev-server": "^3.1.9",
