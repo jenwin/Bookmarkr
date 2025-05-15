@@ -1,6 +1,13 @@
 # Bookmarkr
 A book tracking app that organizes your books into Currently Reading, Want to Read, and Read categories. Easily add new books to any category and remove them.
 
+## Technologies
+- React  
+- JavaScript (ES6+)
+- CSS3
+- HTML5
+- Fetch API
+
 ## Live Demo
 [jenwin.github.io/myreads-app](https://jenwin.github.io/myreads-app)
 
