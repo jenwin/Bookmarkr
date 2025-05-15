@@ -1,8 +1,8 @@
 {
-  "name": "myreads-app",
+  "name": "Bookmarkr",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jenwin.github.io/myreads-app",
+  "homepage": "https://username.github.io/Bookmarkr",
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
     "handlebars": "^4.1.2",
