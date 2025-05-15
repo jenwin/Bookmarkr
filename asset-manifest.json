@@ -1,14 +1,16 @@
 {
-  "main.css": "/myreads-app/static/css/main.57778a11.chunk.css",
-  "main.js": "/myreads-app/static/js/main.d7c4cc1b.chunk.js",
-  "main.js.map": "/myreads-app/static/js/main.d7c4cc1b.chunk.js.map",
-  "static/js/1.196e1a5d.chunk.js": "/myreads-app/static/js/1.196e1a5d.chunk.js",
-  "static/js/1.196e1a5d.chunk.js.map": "/myreads-app/static/js/1.196e1a5d.chunk.js.map",
-  "runtime~main.js": "/myreads-app/static/js/runtime~main.1500c43a.js",
-  "runtime~main.js.map": "/myreads-app/static/js/runtime~main.1500c43a.js.map",
-  "static/media/App.css": "/myreads-app/static/media/arrow-back.20e8847d.svg",
-  "static/css/main.57778a11.chunk.css.map": "/myreads-app/static/css/main.57778a11.chunk.css.map",
-  "index.html": "/myreads-app/index.html",
-  "precache-manifest.08a4d354ca064decef0495845266cbad.js": "/myreads-app/precache-manifest.08a4d354ca064decef0495845266cbad.js",
-  "service-worker.js": "/myreads-app/service-worker.js"
+  "files": {
+    "main.css": "/Bookmarkr/static/css/main.9b70d02b.css",
+    "main.js": "/Bookmarkr/static/js/main.2bf1561b.js",
+    "index.html": "/Bookmarkr/index.html",
+    "static/media/arrow-back.svg": "/Bookmarkr/static/media/arrow-back.392bc09c6a87f6314e8d.svg",
+    "static/media/add.svg": "/Bookmarkr/static/media/add.b7fdf29fd5e2a3fea1d3.svg",
+    "static/media/arrow-drop-down.svg": "/Bookmarkr/static/media/arrow-drop-down.98ef3b31dd9e657746a1.svg",
+    "main.9b70d02b.css.map": "/Bookmarkr/static/css/main.9b70d02b.css.map",
+    "main.2bf1561b.js.map": "/Bookmarkr/static/js/main.2bf1561b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b70d02b.css",
+    "static/js/main.2bf1561b.js"
+  ]
 }
