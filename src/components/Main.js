@@ -11,7 +11,7 @@ class Main extends Component {
       <li className="list-books-shelf">
         <div className="list-books">
           <div className="list-books-title">
-            <h1 className="myreads">MyReads</h1>
+            <h1 className="title">BookMarkr</h1>
           </div>
             <div className="list-books-content">
               <BookList
