@@ -9,7 +9,7 @@ A book tracking app that organizes your books into Currently Reading, Want to Re
 - Fetch API
 
 ## Live Demo
-[jenwin.github.io/myreads-app](https://jenwin.github.io/myreads-app)
+[https://jenwin.github.io/Bookmarkr/](https://jenwin.github.io/Bookmarkr/)
 
 ## License
 GNU General Public License v3.0
